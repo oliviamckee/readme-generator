@@ -1,11 +1,11 @@
-# homework
+# Homework
 
   
   ![MIT License license badge](https://img.shields.io/badge/license-MIT%20License-green)
   
 
   ## Description 
-  some dumbassery
+  a silly assignment for school 
 
   ## Table of Contents 
   - [Installation](#installation)
@@ -16,23 +16,21 @@
   - [Questions](#questions)
 
   ## Installation
-  go to github and download it
+  Navigate to Github and download the relevant files and dependencies. 
 
   ## Usage
-  click the thing 
+  Type node index into the command line. 
 
   
   ## License 
-  This application is covered under the 
-  [MIT License](https://choosealicense.com/licenses/mit/)
-   license.  
+  This application is covered under the following license: [GNU AGPLv3](https://choosealicense.com/licenses/agpl-3.0/) 
   
 
   ## Contributing
-  email me
+  Please email me. 
 
   ## Tests 
-  do the thing 
+  No testing available for this project. 
 
   ## Questions
   My Github profile: [oliviamckee](https://github.com/oliviamckee)
