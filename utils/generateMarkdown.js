@@ -4,8 +4,10 @@ function renderLicenseBadge(license) {
   if (!license) {
     return '';
   }
+  const licenseUrl = String(license).split(" ").join("%20");
+  console.log(licenseUrl);
   return `
-  ![${license} license badge](https://img.shields.io/badge/license-${license}-green)
+  ![${license} license badge](https://img.shields.io/badge/license-${licenseUrl}-green)
   `
 }
 

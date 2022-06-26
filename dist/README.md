@@ -1,11 +1,11 @@
 # homework
 
   
-  ![MIT License license badge](https://img.shields.io/badge/license-MIT License-green)
+  ![MIT License license badge](https://img.shields.io/badge/license-MIT%20License-green)
   
 
   ## Description 
-  some dumbassery i don't understand
+  some dumbassery
 
   ## Table of Contents 
   - [Installation](#installation)
@@ -16,7 +16,7 @@
   - [Questions](#questions)
 
   ## Installation
-  go to github and download it 
+  go to github and install it
 
   ## Usage
   click the thing 
@@ -29,7 +29,7 @@
   
 
   ## Contributing
-  email me 
+  email me
 
   ## Tests 
   do the thing 

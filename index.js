@@ -83,11 +83,9 @@ function init() {
     return inquirer
     .prompt(questions)
     .then((answers) => { 
-        console.log(answers);
         return generateMarkdown(answers);
     })
     .then((markdown) => {
-        console.log(markdown);
         return writeToFile(markdown);
     })
     .catch(err => {
