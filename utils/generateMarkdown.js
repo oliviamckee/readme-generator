@@ -4,10 +4,9 @@ function renderLicenseBadge(license) {
   if (!license) {
     return '';
   }
-  const licenseUrl = String(license).split(" ").join("%20");
-  console.log(licenseUrl);
+  const badgeUrl = String(license).split(" ").join("%20");
   return `
-  ![${license} license badge](https://img.shields.io/badge/license-${licenseUrl}-green)
+  ![${license} license badge](https://img.shields.io/badge/license-${badgeUrl}-green)
   `
 }
 
@@ -17,8 +16,10 @@ function renderLicenseLink(license) {
   if (!license) {
     return '';
   }
-  return `
-  [${license}](link)
+  console.log(license);
+  if (license = 'MIT License')
+    return `
+  [${license}](https://choosealicense.com/licenses/mit/)
   `
 }
 

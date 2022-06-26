@@ -16,7 +16,7 @@
   - [Questions](#questions)
 
   ## Installation
-  go to github and install it
+  go to github and download it
 
   ## Usage
   click the thing 
@@ -24,7 +24,7 @@
   
   ## License 
   This application is covered under the 
-  [MIT License](link)
+  [MIT License](https://choosealicense.com/licenses/mit/)
    license.  
   
 
