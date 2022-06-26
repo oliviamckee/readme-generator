@@ -17,7 +17,7 @@
   Type 'node index' into your command line and answer the prompts to generate a README.md file. 
 
   ## Credits
-  [license badge](https://shields.io/category/license)
+  [license badge](https://shields.io/category/license)  
   [license list](https://choosealicense.com/licenses/)
   
   ## License 
