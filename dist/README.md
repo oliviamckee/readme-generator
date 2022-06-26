@@ -1,11 +1,11 @@
 # homework
 
   
-  license badge
+  ![MIT License license badge](https://img.shields.io/badge/license-MIT License-green)
   
 
   ## Description 
-  building a readme generator
+  some dumbassery i don't understand
 
   ## Table of Contents 
   - [Installation](#installation)
@@ -16,7 +16,7 @@
   - [Questions](#questions)
 
   ## Installation
-  go to github and download the relevent files 
+  go to github and download it 
 
   ## Usage
   click the thing 
@@ -29,7 +29,7 @@
   
 
   ## Contributing
-  email me if ya want 
+  email me 
 
   ## Tests 
   do the thing 

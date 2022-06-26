@@ -5,7 +5,7 @@ function renderLicenseBadge(license) {
     return '';
   }
   return `
-  license badge
+  ![${license} license badge](https://img.shields.io/badge/license-${license}-green)
   `
 }
 
