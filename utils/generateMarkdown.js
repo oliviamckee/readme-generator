@@ -16,21 +16,21 @@ function renderLicenseLink(license) {
   if (!license) {
     return '';
   }
-  if (license = 'GNU AGPLv3') {
+  if (license == 'GNU AGPLv3') {
     return `[${license}](https://choosealicense.com/licenses/agpl-3.0/)`}
-  if (license = 'GNU GPLv3') {
+  if (license == 'GNU GPLv3') {
     return `[${license}](https://choosealicense.com/licenses/gpl-3.0/)`}
-  if (license = 'GNU LGPLv3') {
+  if (license == 'GNU LGPLv3') {
     return `[${license}](https://choosealicense.com/licenses/lgpl-3.0/)`}
-  if (license = 'Mozilla Public License 2.0') {
+  if (license == 'Mozilla Public License 2.0') {
     return `[${license}](https://choosealicense.com/licenses/mpl-2.0/)`}
-  if (license = 'Apache License 2.0') {
+  if (license == 'Apache License 2.0') {
     return `[${license}](https://choosealicense.com/licenses/apache-2.0/)`}
-  if (license = 'MIT License') {
+  if (license == 'MIT License') {
     return `[${license}](https://choosealicense.com/licenses/mit/)`}
-  if (license = 'Boost Software License 1.0') {
+  if (license == 'Boost Software License 1.0') {
     return `[${license}](https://choosealicense.com/licenses/bsl-1.0/)`}
-  if (license = 'The Unlicense') {
+  if (license == 'The Unlicense') {
     return `[${license}](https://choosealicense.com/licenses/unlicense/)`}
 }
 

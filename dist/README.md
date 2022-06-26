@@ -5,7 +5,7 @@
   
 
   ## Description 
-  a silly assignment for school 
+  just a silly assignment for school 
 
   ## Table of Contents 
   - [Installation](#installation)
@@ -19,18 +19,18 @@
   Navigate to Github and download the relevant files and dependencies. 
 
   ## Usage
-  Type node index into the command line. 
+  Run node index from the command line. 
 
   
   ## License 
-  This application is covered under the following license: [GNU AGPLv3](https://choosealicense.com/licenses/agpl-3.0/) 
+  This application is covered under the following license: [MIT License](https://choosealicense.com/licenses/mit/) 
   
 
   ## Contributing
-  Please email me. 
+  Please email me if you want to contribute. 
 
   ## Tests 
-  No testing available for this project. 
+  No testing available other than running the app. 
 
   ## Questions
   My Github profile: [oliviamckee](https://github.com/oliviamckee)
