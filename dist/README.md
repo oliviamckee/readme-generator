@@ -1,9 +1,13 @@
-# x
+# homework
+
+  
+  license badge
+  
 
   ## Description 
-  x
+  building a readme generator
 
-  ##Table of Contents 
+  ## Table of Contents 
   - [Installation](#installation)
   - [Usage](#usage)
   - [License](#license)
@@ -11,21 +15,25 @@
   - [Tests](#tests)
   - [Questions](#questions)
 
-  ##Installation
-  x
+  ## Installation
+  go to github and download the relevent files 
 
   ## Usage
-  x
+  click the thing 
 
-  ## License
-  GNU AGPLv3
+  
+  ## License 
+  This application is covered under the 
+  [MIT License](link)
+   license.  
+  
 
   ## Contributing
-  x
+  email me if ya want 
 
   ## Tests 
-  x
+  do the thing 
 
   ## Questions
-  My Github profile: [x](https://github.com/x)
-  Please email me with any questions, comments, or concerns at x.
+  My Github profile: [oliviamckee](https://github.com/oliviamckee)
+  Please email me with any questions, comments, or concerns at olivia.mckee97@gmail.com.
